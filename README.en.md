@@ -8,7 +8,7 @@ recommendations.
 
 ## Database
 Normalized schema of 4 related tables:
-```
+
 ```
 | Table | Description | Rows |
 |---|---|---|

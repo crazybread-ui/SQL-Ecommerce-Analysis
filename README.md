@@ -17,7 +17,7 @@
 Базу можно воссоздать одним скриптом - [`build_db.sql`](build_db.sql).
 
 ## SQL-приёмы в проекте
-`JOIN` (до 3 таблиц) · `GROUP BY` / `HAVING` · агрегаты (`SUM`, `COUNT`) ·
+`JOIN` (несколько таблиц) · `GROUP BY` / `HAVING` · агрегаты (`SUM`, `COUNT`) ·
 `CTE` (`WITH`, многослойные) · **оконные функции** (`LAG`, `RANK`, `ROW_NUMBER`, `AVG`/`SUM` `OVER`) · фильтрация окна через CTE ·
 `PARTITION BY` · `WHERE`,`HAVING` · сортировка · `LIMIT`.
 

@@ -14,7 +14,7 @@
 | `orders` | заказы: дата, статус (completed / cancelled / returned) | 4 000 |
 | `order_items` | позиции заказа: количество, цена, скидка | 10 049 |
 
-Базу можно воссоздать одним скриптом — [`build_db.sql`](build_db.sql).
+Базу можно воссоздать одним скриптом - [`build_db.sql`](build_db.sql).
 
 ## SQL-приёмы в проекте
 `JOIN` (до 3 таблиц) · `GROUP BY` / `HAVING` · агрегаты (`SUM`, `COUNT`) ·

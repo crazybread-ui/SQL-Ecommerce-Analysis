@@ -9,7 +9,6 @@ recommendations.
 ## Database
 Normalized schema of 4 related tables:
 
-```
 | Table | Description | Rows |
 |---|---|---|
 | `customers` | customers: country, segment, signup date | 300 |

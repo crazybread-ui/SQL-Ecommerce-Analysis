@@ -1,4 +1,4 @@
-🇬🇧 [English version](README.en.md)
+en [English version](README.en.md)
 
 # SQL-анализ продаж интернет-магазина (PostgreSQL)
 
